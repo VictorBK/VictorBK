@@ -1,5 +1,5 @@
 A Software Engineering Student at ALX_Africa || Holberton School
 
-Career aim: DevOps and SRE
+DevOps in training.
 
 Looking for collaborative opportunities too.
